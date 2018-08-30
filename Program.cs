@@ -11,7 +11,7 @@ namespace PdfMultiPartSplit
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var welcomeMessage = "Hello Hari. This is a sample PDF compression reader.";
             var filePath = @"C:\Users\BALAKH\Desktop\Organise this\Pdfs\codpaste-teachingpack.pdf";
