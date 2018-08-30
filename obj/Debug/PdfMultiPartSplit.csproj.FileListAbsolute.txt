@@ -1,0 +1,6 @@
+C:\Users\BALAKH\Desktop\PdfMultiPartSplit\PdfMultiPartSplit\bin\Debug\PdfMultiPartSplit.exe.config
+C:\Users\BALAKH\Desktop\PdfMultiPartSplit\PdfMultiPartSplit\obj\Debug\PdfMultiPartSplit.csprojResolveAssemblyReference.cache
+C:\Users\BALAKH\Desktop\PdfMultiPartSplit\PdfMultiPartSplit\bin\Debug\PdfMultiPartSplit.exe
+C:\Users\BALAKH\Desktop\PdfMultiPartSplit\PdfMultiPartSplit\bin\Debug\PdfMultiPartSplit.pdb
+C:\Users\BALAKH\Desktop\PdfMultiPartSplit\PdfMultiPartSplit\obj\Debug\PdfMultiPartSplit.exe
+C:\Users\BALAKH\Desktop\PdfMultiPartSplit\PdfMultiPartSplit\obj\Debug\PdfMultiPartSplit.pdb
